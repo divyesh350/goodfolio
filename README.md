@@ -3,10 +3,9 @@
 
 A brief description of what this project does and who it's for
 
-Anime Website
+GoodFolio
 ## Appendix
 
-This Website is used to watch anime.
 This is my practise project.
 It is created with only frontend languages and i didnt used any frontend framework.
 
@@ -16,24 +15,11 @@ It is created with only frontend languages and i didnt used any frontend framewo
 - [@divyesh350](https://github.com/divyesh350)
 
 
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-## Color Reference
-
-| Color     #0a192f        | Hex               #0a192f                                                 |
-| ----------------- | ------------------------------------------------------------------ |
-
-
 
 ## Demo
 
-https://divyesh350.github.io/Anime_Website/
+[https://divyesh350.github.io/Anime_Website/](https://divyesh350.github.io/goodfolio/)
+
 ## License
 
 MIT License
